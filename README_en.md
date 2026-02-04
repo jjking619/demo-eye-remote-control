@@ -216,30 +216,5 @@ Main configurable parameters in [src/eye_detector.py](src/eye_detector.py):
 | `EAR_OPEN_THRESHOLD` | 0.25 | Eye open threshold |
 | `BLINK_FRAME_THRESHOLD` | 4 | Blink duration threshold (frames) |
 
-## 🛠️ Troubleshooting
-
-### Camera Issues
-
-**Camera won't start**
-- Check if camera is occupied by other programs
-- Verify camera device is functioning
-- Try restarting program or reconnecting camera
-
-**Inaccurate detection**
-- Adjust camera angle and distance
-- Improve lighting conditions
-- Tune threshold parameters in [src/eye_detector.py](src/eye_detector.py)
-
-### Video Playback Issues
-
-**Video won't play**
-- Check video format compatibility
-- Verify correct file path
-- Check log files for error details
-
-**Playback stuttering**
-- Close unnecessary background programs
-- Check system resource usage
-
 ##  Reporting Issues
 Feel free to submit Issues and Pull Requests to improve this project.
