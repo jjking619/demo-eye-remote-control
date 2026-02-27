@@ -2,7 +2,7 @@
 
 [English](README.md) | 中文
 
-本项目基于 [Quectel Pi H1单板电脑](https://developer.quectel.com/doc/sbc/Quectel-Pi-H1/zh/Applications/Open-Source-Projects/eye_remote_control/eye_remote_control.html)开发，充分利用其强大的计算能力和多媒体处理能力，实现了低延迟、较高准确率的眼部追踪功能。
+本项目基于 [Quectel Pi H1智能主控板](https://developer.quectel.com/doc/sbc/Quectel-Pi-H1/zh/Applications/Open-Source-Projects/eye_remote_control/eye_remote_control.html)开发，充分利用其强大的计算能力和多媒体处理能力，实现了低延迟、较高准确率的眼部追踪功能。
 
 眼睛遥控器是一个智能控制系统，通过检测用户眼部状态来控制视频播放：注视屏幕时继续播放，闭眼或离开屏幕时自动暂停。
 

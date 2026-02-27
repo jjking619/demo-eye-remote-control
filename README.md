@@ -152,7 +152,11 @@ sudo apt install -y ffmpeg
 cd demo-eye-remote-control/src
 python3 main.py
 ```
-
+Alternatively, use the startup script:
+```bash 
+chmod +x start.sh
+./start.sh
+```
 ### First-time Setup
 
 1. Ensure camera is properly connected to the device
